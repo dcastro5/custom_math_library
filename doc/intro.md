@@ -1,6 +1,7 @@
 # Introduction to Cutsom Math Library for Clojure:
 
 Functions:
+
 -clear: takes no parameters, clears screen in 24-line terminal window; created for REPL use
 
 -dr: takes 1 number as a parameter, returns the radian equivalent for the supplied degree value
